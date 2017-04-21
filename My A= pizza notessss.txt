@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>A+++++++++++++++!
+</title>
+<link rel="stylesheet"
+href="style.css">
+</head>
+<body>
+<h1> My A + testttt
+website!</h1>
+<img src="easy.jpg"
+<p>ALL I KNOW IS a+.</p>
+<p> id="special">MY A+ PIZZA.</p>
+</body>
+</html>
